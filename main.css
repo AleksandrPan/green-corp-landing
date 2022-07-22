@@ -86,8 +86,6 @@ button:hover {
 .about__sun-image {
     width: 100px;
     height: 100px;
-    position: fixed;
-    
 }
 
 .form {
@@ -164,6 +162,8 @@ input {
 
 footer {
     padding: 90px 20px;
+    font-size: 16px;
+    font-weight: 600;
 }
 
 .footer__container {
@@ -172,7 +172,7 @@ footer {
 }
 
 .footer__group {
-    margin: 80px;
+    margin-right: 80px;
 }
 .footer__links{
     display: flex;
@@ -186,7 +186,7 @@ footer {
     margin-bottom: 30px;
 }
 .footer__copyright {
-    padding-top: 40px;
+    margin-top: 40px;
     text-align: center;
     opacity: 0.5;
 }
