@@ -86,6 +86,8 @@ button:hover {
 .about__sun-image {
     width: 100px;
     height: 100px;
+    position: fixed;
+    
 }
 
 .form {
